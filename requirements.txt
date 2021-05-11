@@ -1,0 +1,5 @@
+PyYAML
+pytest
+selenium==3.141.0
+urllib3==1.24.2
+Appium-Python-Client
